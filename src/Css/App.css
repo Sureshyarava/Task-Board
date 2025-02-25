@@ -1,0 +1,10 @@
+#center {
+  text-align: center;
+}
+
+.body {
+  height: 96vh;
+  border: 1px solid black;
+  margin: 1em;
+  border-radius: 6px;
+}
