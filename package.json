@@ -2,6 +2,7 @@
   "name": "Task-Board",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://sureshyarava.me/Task-Board/",
   "type": "module",
   "scripts": {
     "dev": "vite",
