@@ -3,7 +3,7 @@
 }
 
 .body {
-  height: 96vh;
+  height: fit-content;
   border: 1px solid black;
   margin: 1em;
   border-radius: 6px;

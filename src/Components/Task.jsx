@@ -18,7 +18,7 @@ export default function Task({ task, onDelete, onEdit, isDragging }) {
             style={style}
             className={`task-card ${isDragging ? 'dragging' : ''}`}
         >
-            <div {...listeners} {...attributes}>
+            <div style={{"width":"95%"}} {...listeners} {...attributes}>
                 <h3>{task.title}</h3>
                 <p>{task.description}</p>
             </div>
